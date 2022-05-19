@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(67, 109, 109, 0.655);
+}
+
+.App1{
+    width: 80%;
+    margin: auto;
+    margin-top: 1%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid red; */
+    padding: 0% 7%;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    color: white;
+    font-weight: 700;
+}
+
+.link{
+    width: 20%;
+}
+
+
+.link div{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.btn button{
+    background-color: rgba(0, 123, 255, 0.908);
+    border-radius: 25px;
+    padding: 8px 25px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
